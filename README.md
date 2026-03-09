@@ -1,1 +1,1 @@
-This is a which is created to learn socket
+This web-app created to learn socket
